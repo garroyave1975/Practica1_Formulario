@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica1_Formulario</string>
+    <string name="registro">Registro</string>
+    <string name="password">Password</string>
+    <string name="loggin">Loggin</string>
+    <string name="verificar">Confirmar Password</string>
+    <string name="email">Email</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="hloggin">Ingrese su nombre de usuario</string>
+    <string name="hpassword">Ingrese su password</string>
+    <string name="hemail">Ingrese su email</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="ciudad">Ciudad de nacimiento</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="leer">Leer</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="deporte">Deporte</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Bogotá</item>
+        <item>Barranquilla</item>
+    </string-array>
+
+</resources>
